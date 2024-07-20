@@ -25,7 +25,10 @@ fn SR_fn = (
 			)
 		)
 
- 		on lbl_btn pressed do ( CheckForSave() )
+ 		on lbl_btn pressed do ( 
+ 			CheckForSave()
+ 			try (DestroyDialog SR_roll) catch() 
+		)
 
 	)
 
