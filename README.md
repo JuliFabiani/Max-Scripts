@@ -14,4 +14,4 @@ There are two possible locations to place the scripts:
 
 > **DISCLAIMER:** *Some scripts are modifications (or not even) of scripts from other authors. All credits to those people who own those scripts. If you consider that any script should be removed from the repertory, please contact me.*
 
-*Translated via translate.google.com*
+*Translated via translate.google.com*.
